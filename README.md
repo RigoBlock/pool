@@ -3,3 +3,5 @@
 ---
 
 # pool
+## web-accessible version of our dapp
+
