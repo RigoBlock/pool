@@ -1,6 +1,11 @@
 {
+  "id": "rigoblock",
+  "name": "RigoBlock",
+  "description": "Decentralize Pools of Digital Tokens",
+  "author": "Rigo Investment Sagl",
+  "version": "0.3.1",
+  "iconUrl": "",
   "short_name": "React App",
-  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
